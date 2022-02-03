@@ -22,9 +22,9 @@ else
 	<link rel="apple-touch-icon" sizes="72x72" href="touch-icon-ipad.png" />
 	<link rel="apple-touch-icon" sizes="114x114" href="touch-icon-iphonehd.png" />
 	<link rel="apple-touch-icon" sizes="144x144" href="touch-icon-ipadhd.png" />
-	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.css" />
-	<script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
-	<script src="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script>
+	<link rel="stylesheet" href="https://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.css" />
+	<script src="https://code.jquery.com/jquery-1.8.2.min.js"></script>
+	<script src="https://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script>
 	<style type="text/css">
 		.big {font-size: 3em}
 		#analyz{text-align: center}
